@@ -53,13 +53,12 @@
 <p align="center">
   <a href="https://youtu.be/jxftKfr1ns0">
     <img src="https://img.youtube.com/vi/jxftKfr1ns0/0.jpg" width="45%">
-    <br>PR001 - 기본 주행 영상
   </a>
   <a href="https://youtu.be/iU8S7i99wnU">
     <img src="https://img.youtube.com/vi/iU8S7i99wnU/0.jpg" width="45%">
-    <br>PR002 - 장애물 회피 주행
   </a>
 </p>
+<p align="center"><b>PR001 - 기본 주행 영상 &nbsp;&nbsp;&nbsp;&nbsp; PR002 - 장애물 회피 주행</b></p>
 
 ## 🚀 실행 방법
 
