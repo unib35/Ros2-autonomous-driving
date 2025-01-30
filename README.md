@@ -48,38 +48,18 @@
 
 ---
 
-## 📂 프로젝트 구조
-
-```
-ros2-autonomous-track-driving/
-│── src/
-│   ├── box_move.py
-│   ├── line_follower.py
-│   ├── line_follower2.py
-│   ├── line_tracker.py
-│   ├── move_box.py
-│   ├── obstacle.py
-│   ├── stop_line_tracker.py
-│── docs/
-│   ├── 프로젝트_계획서.pdf
-│   ├── 프로젝트_결과보고서.pdf
-│   ├── 프로젝트_체크리스트.xlsx
-│── README.md
-```
-
----
-
 ## 📹 시연 영상
 
 <p align="center">
   <a href="https://youtu.be/jxftKfr1ns0">
     <img src="https://img.youtube.com/vi/jxftKfr1ns0/0.jpg" width="45%">
+    <br>PR001 - 기본 주행 영상
   </a>
   <a href="https://youtu.be/iU8S7i99wnU">
     <img src="https://img.youtube.com/vi/iU8S7i99wnU/0.jpg" width="45%">
+    <br>PR002 - 장애물 회피 주행
   </a>
 </p>
----
 
 ## 🚀 실행 방법
 
