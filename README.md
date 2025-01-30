@@ -71,9 +71,14 @@ ros2-autonomous-track-driving/
 
 ## 📹 시연 영상
 
-- **PR001 주행 영상**: [![PR001](https://img.youtube.com/vi/jxftKfr1ns0/0.jpg)](https://youtu.be/jxftKfr1ns0)
-- **PR002 주행 영상**: [![PR002](https://img.youtube.com/vi/iU8S7i99wnU/0.jpg)](https://youtu.be/iU8S7i99wnU)
-
+<p align="center">
+  <a href="https://youtu.be/jxftKfr1ns0">
+    <img src="https://img.youtube.com/vi/jxftKfr1ns0/0.jpg" width="45%">
+  </a>
+  <a href="https://youtu.be/iU8S7i99wnU">
+    <img src="https://img.youtube.com/vi/iU8S7i99wnU/0.jpg" width="45%">
+  </a>
+</p>
 ---
 
 ## 🚀 실행 방법
